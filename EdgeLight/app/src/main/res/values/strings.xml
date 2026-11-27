@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Edge Light</string>
+    <string name="a11y_description">Desenha a luz de borda por cima da tela (inclusive na tela de bloqueio) quando chega uma notificação. O app não lê nem guarda o conteúdo da tela.</string>
+</resources>
